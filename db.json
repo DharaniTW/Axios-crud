@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple",
+      "desc": "Macbook"
+    },
+    {
+      "id": 2,
+      "title": "Windows",
+      "desc": "Microsoft"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 4,
+      "comments": "Good for user"
+    }
+  ]
+}
